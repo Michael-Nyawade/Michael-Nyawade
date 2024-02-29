@@ -1,6 +1,22 @@
+<p align="center">
+  <img src="/images/statistics_logo.jpg" alt="statistics_logo.jpg" width="200" height="150" style="margin-right: 20px;">
+</p>
+
+
 # About
 
 I am a data enthusiast with a passion for using data to drive business decisions. Feel free to explore my projects and resume to see how I can add value to your organization.
+
+# Tools
+
+<p align="center">
+  <img src="/images/python_logo.jpg" alt="python_logo.jpg" width="100" height="100" style="margin-right: 20px;">
+  <img src="/images/mysql_logo.png" alt="mysql_logo.png" width="100" height="100" style="margin-right: 20px;">
+  <img src="/images/excel_logo.svg" alt="excel_logo.svg" width="100" height="100" style="margin-right: 20px;">
+  <img src="/images/power_bi_logo.png" alt="power_bi_logo.png" width="100" height="100" style="margin-right: 20px;">
+  <img src="/images/r_logo.jpg" alt="r_logo.jpg" width="100" height="100">
+</p>
+
 
 # Skills
 
