@@ -35,4 +35,4 @@ stakeholders using clear and concise language and visuals.
 collaborate effectively with team members and clients.
 * **Critical thinking:** Strong analytical and problem-solving skills, able to identify and 
 address data quality issues and business challenges.
-* **Attention to detail** and ability to work in a pressurized time-sensitive environment
+* **Attention to detail** and ability to work in a pressurized time-sensitive environment.
